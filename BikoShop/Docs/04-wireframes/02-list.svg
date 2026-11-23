@@ -1,0 +1,492 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="1462" viewBox="0 0 1320 1462" fill="none" xmlns:c2pa="http://c2pa.org/manifest">
+<rect id="background" width="1320" height="1462" fill="#FFFFFF"/>
+<g id="POPULATED-STATE-1">
+<text xml:space="preserve" x="26.0" y="32.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#666666">POPULATED </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#666666">STATE</tspan></text>
+</g>
+<g id="shape-2">
+<rect x="20.0" y="42.0" width="1280.0" height="700.0" fill="#FFFFFF" stroke="#333333" stroke-width="1"/>
+</g>
+<g id="shape-3">
+<rect x="20.0" y="42.0" width="200.0" height="700.0" fill="#EDEDED" stroke="#666666" stroke-width="1"/>
+</g>
+<g id="B-4">
+<rect x="36.0" y="56.0" width="36.0" height="36.0" rx="7.2" fill="#BFBFBF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="54.0" y="79.6" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#333333">B</tspan></text>
+</g>
+<g id="BikoShop-5">
+<text xml:space="preserve" x="86.0" y="79.2" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#333333">BikoShop</tspan></text>
+</g>
+<g id="WORKSPACE-6">
+<text xml:space="preserve" x="42.0" y="121.2" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#666666">WORKSPACE</tspan></text>
+</g>
+<g id="Dashboard-7">
+<rect x="32.0" y="130.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="148.8" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Dashboard</tspan></text>
+</g>
+<g id="Orders-8">
+<rect x="32.0" y="166.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="184.8" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Orders</tspan></text>
+</g>
+<g id="Products-9">
+<rect x="32.0" y="202.0" width="176.0" height="30.0" rx="6.0" fill="#BFBFBF"/>
+<text xml:space="preserve" x="50.0" y="220.8" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#333333">Products</tspan></text>
+</g>
+<g id="Categories-10">
+<rect x="32.0" y="238.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="256.9" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Categories</tspan></text>
+</g>
+<g id="Inventory-11">
+<rect x="32.0" y="274.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="292.9" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Inventory</tspan></text>
+</g>
+<g id="MANAGEMENT-12">
+<text xml:space="preserve" x="42.0" y="331.1" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#666666">MANAGEMENT</tspan></text>
+</g>
+<g id="Customers-13">
+<rect x="32.0" y="342.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="360.9" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Customers</tspan></text>
+</g>
+<g id="Employees-14">
+<rect x="32.0" y="378.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="396.9" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Employees</tspan></text>
+</g>
+<g id="Suppliers-15">
+<rect x="32.0" y="414.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="432.9" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Suppliers</tspan></text>
+</g>
+<g id="Purchases-16">
+<rect x="32.0" y="450.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="468.9" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Purchases</tspan></text>
+</g>
+<g id="Payments-17">
+<rect x="32.0" y="486.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="504.9" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Payments</tspan></text>
+</g>
+<g id="Reports-18">
+<rect x="32.0" y="522.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="540.9" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Reports</tspan></text>
+</g>
+<g id="Settings-19">
+<rect x="32.0" y="570.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="588.9" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Settings</tspan></text>
+</g>
+<g id="shape-20">
+<rect x="220.0" y="112.0" width="1080.0" height="1.0" fill="#BFBFBF"/>
+</g>
+<g id="Workspace-Products-21">
+<text xml:space="preserve" x="246.0" y="80.8" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#666666">Workspace </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#666666">/ </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#666666">Products</tspan></text>
+</g>
+<g id="Search-anything-22">
+<rect x="780.0" y="58.0" width="240.0" height="38.0" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="794.0" y="80.9" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#888888">Search </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#888888">anything…</tspan></text>
+</g>
+<g id="JD-23">
+<ellipse cx="1059.0" cy="77.0" rx="19.0" ry="19.0" fill="#D9D9D9" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="1059.0" y="80.9" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">JD</tspan></text>
+</g>
+<g id="Jerald-Fullero-Employee-Firs-24">
+<text xml:space="preserve" x="1090.0" y="69.0" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#333333">Jerald </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#333333">Fullero</tspan></text>
+<text xml:space="preserve" x="1090.0" y="80.8" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Employee.First_name, </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">.Last_name</tspan></text>
+<text xml:space="preserve" x="1090.0" y="92.3" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Employee.Position</tspan></text>
+</g>
+<g id="Products-25">
+<text xml:space="preserve" x="246.0" y="157.4" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#333333">Products</tspan></text>
+</g>
+<g id="Manage-the-menu-items-you-se-26">
+<text xml:space="preserve" x="246.0" y="180.8" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#666666">Manage </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#666666">the </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#666666">menu </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#666666">items </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#666666">you </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#666666">sell.</tspan></text>
+</g>
+<g id="Add-product-creates-Product-27">
+<rect x="1070.0" y="132.0" width="210.0" height="56.0" rx="8.0" fill="#BFBFBF" stroke="#333333" stroke-width="1"/>
+<text xml:space="preserve" x="1175.0" y="158.1" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#333333">+ </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#333333">Add </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#333333">product</tspan></text>
+<text xml:space="preserve" x="1175.0" y="170.2" text-anchor="middle"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="700" fill="#666666">creates </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="700" fill="#666666">Product </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="700" fill="#666666">+ </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="700" fill="#666666">Inventory</tspan></text>
+</g>
+<g id="Search-by-name-filters-Produ-28">
+<rect x="240.0" y="208.0" width="380.0" height="50.0" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="254.0" y="231.1" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#888888">Search </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#888888">by </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#888888">name…</tspan></text>
+<text xml:space="preserve" x="254.0" y="243.2" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">filters </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Product.Product_name</tspan></text>
+</g>
+<g id="All-categories-Category-Cate-29">
+<rect x="640.0" y="208.0" width="260.0" height="50.0" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="654.0" y="231.1" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#888888">All </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#888888">categories </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#888888">▾</tspan></text>
+<text xml:space="preserve" x="654.0" y="243.2" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Category.Category_name</tspan></text>
+</g>
+<g id="ID-Product-Product-ID-30">
+<rect x="240.0" y="276.0" width="100.0" height="56.0" fill="#D9D9D9" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="252.0" y="296.0" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#333333">ID</tspan></text>
+<text xml:space="preserve" x="252.0" y="307.8" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Product.</tspan></text>
+<text xml:space="preserve" x="252.0" y="319.3" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Product_ID</tspan></text>
+</g>
+<g id="Name-Product-Product-name-31">
+<rect x="340.0" y="276.0" width="200.0" height="56.0" fill="#D9D9D9" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="352.0" y="296.0" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#333333">Name</tspan></text>
+<text xml:space="preserve" x="352.0" y="307.8" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Product.</tspan></text>
+<text xml:space="preserve" x="352.0" y="319.3" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Product_name</tspan></text>
+</g>
+<g id="Category-Category-Category-n-32">
+<rect x="540.0" y="276.0" width="200.0" height="56.0" fill="#D9D9D9" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="552.0" y="296.0" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#333333">Category</tspan></text>
+<text xml:space="preserve" x="552.0" y="307.8" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Category.</tspan></text>
+<text xml:space="preserve" x="552.0" y="319.3" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Category_name</tspan></text>
+</g>
+<g id="Price-Product-Unit-price-33">
+<rect x="740.0" y="276.0" width="130.0" height="56.0" fill="#D9D9D9" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="752.0" y="296.0" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#333333">Price</tspan></text>
+<text xml:space="preserve" x="752.0" y="307.8" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Product.</tspan></text>
+<text xml:space="preserve" x="752.0" y="319.3" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Unit_price</tspan></text>
+</g>
+<g id="Stock-Inventory-Quantity-on-34">
+<rect x="870.0" y="276.0" width="150.0" height="56.0" fill="#D9D9D9" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="882.0" y="296.0" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#333333">Stock</tspan></text>
+<text xml:space="preserve" x="882.0" y="307.8" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Inventory.</tspan></text>
+<text xml:space="preserve" x="882.0" y="319.3" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Quantity_on_hand</tspan></text>
+</g>
+<g id="Actions-Edit-update-Delete-d-35">
+<rect x="1020.0" y="276.0" width="260.0" height="56.0" fill="#D9D9D9" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="1032.0" y="301.7" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#333333">Actions</tspan></text>
+<text xml:space="preserve" x="1032.0" y="313.5" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Edit </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">= </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">update, </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Delete </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">= </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">delete</tspan></text>
+</g>
+<g id="1-36">
+<rect x="240.0" y="332.0" width="100.0" height="44.0" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="252.0" y="357.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">1</tspan></text>
+</g>
+<g id="Classic-Biko-Slice-37">
+<rect x="340.0" y="332.0" width="200.0" height="44.0" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="352.0" y="357.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Classic </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Biko </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Slice</tspan></text>
+</g>
+<g id="Slices-38">
+<rect x="540.0" y="332.0" width="200.0" height="44.0" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="552.0" y="357.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Slices</tspan></text>
+</g>
+<g id="60-00-39">
+<rect x="740.0" y="332.0" width="130.0" height="44.0" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="752.0" y="357.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">₱60.00</tspan></text>
+</g>
+<g id="50-40">
+<rect x="870.0" y="332.0" width="150.0" height="44.0" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="882.0" y="357.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">50</tspan></text>
+</g>
+<g id="shape-41">
+<rect x="1020.0" y="332.0" width="260.0" height="44.0" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1"/>
+</g>
+<g id="2-42">
+<rect x="240.0" y="376.0" width="100.0" height="44.0" fill="#F5F5F5" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="252.0" y="401.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">2</tspan></text>
+</g>
+<g id="Classic-Biko-Tray-43">
+<rect x="340.0" y="376.0" width="200.0" height="44.0" fill="#F5F5F5" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="352.0" y="401.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Classic </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Biko </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Tray</tspan></text>
+</g>
+<g id="Trays-44">
+<rect x="540.0" y="376.0" width="200.0" height="44.0" fill="#F5F5F5" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="552.0" y="401.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Trays</tspan></text>
+</g>
+<g id="450-00-45">
+<rect x="740.0" y="376.0" width="130.0" height="44.0" fill="#F5F5F5" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="752.0" y="401.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">₱450.00</tspan></text>
+</g>
+<g id="25-46">
+<rect x="870.0" y="376.0" width="150.0" height="44.0" fill="#F5F5F5" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="882.0" y="401.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">25</tspan></text>
+</g>
+<g id="shape-47">
+<rect x="1020.0" y="376.0" width="260.0" height="44.0" fill="#F5F5F5" stroke="#BFBFBF" stroke-width="1"/>
+</g>
+<g id="3-48">
+<rect x="240.0" y="420.0" width="100.0" height="44.0" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="252.0" y="445.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">3</tspan></text>
+</g>
+<g id="Ube-Biko-49">
+<rect x="340.0" y="420.0" width="200.0" height="44.0" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="352.0" y="445.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Ube </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Biko</tspan></text>
+</g>
+<g id="Flavored-50">
+<rect x="540.0" y="420.0" width="200.0" height="44.0" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="552.0" y="445.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Flavored</tspan></text>
+</g>
+<g id="70-00-51">
+<rect x="740.0" y="420.0" width="130.0" height="44.0" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="752.0" y="445.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">₱70.00</tspan></text>
+</g>
+<g id="8-52">
+<rect x="870.0" y="420.0" width="150.0" height="44.0" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="882.0" y="445.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">8</tspan></text>
+</g>
+<g id="shape-53">
+<rect x="1020.0" y="420.0" width="260.0" height="44.0" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1"/>
+</g>
+<g id="4-54">
+<rect x="240.0" y="464.0" width="100.0" height="44.0" fill="#F5F5F5" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="252.0" y="489.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">4</tspan></text>
+</g>
+<g id="Pandan-Biko-55">
+<rect x="340.0" y="464.0" width="200.0" height="44.0" fill="#F5F5F5" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="352.0" y="489.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Pandan </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Biko</tspan></text>
+</g>
+<g id="Flavored-56">
+<rect x="540.0" y="464.0" width="200.0" height="44.0" fill="#F5F5F5" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="552.0" y="489.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Flavored</tspan></text>
+</g>
+<g id="70-00-57">
+<rect x="740.0" y="464.0" width="130.0" height="44.0" fill="#F5F5F5" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="752.0" y="489.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">₱70.00</tspan></text>
+</g>
+<g id="30-58">
+<rect x="870.0" y="464.0" width="150.0" height="44.0" fill="#F5F5F5" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="882.0" y="489.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">30</tspan></text>
+</g>
+<g id="shape-59">
+<rect x="1020.0" y="464.0" width="260.0" height="44.0" fill="#F5F5F5" stroke="#BFBFBF" stroke-width="1"/>
+</g>
+<g id="5-60">
+<rect x="240.0" y="508.0" width="100.0" height="44.0" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="252.0" y="533.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">5</tspan></text>
+</g>
+<g id="Mini-Biko-Box-61">
+<rect x="340.0" y="508.0" width="200.0" height="44.0" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="352.0" y="533.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Mini </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Biko </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Box</tspan></text>
+</g>
+<g id="Boxes-62">
+<rect x="540.0" y="508.0" width="200.0" height="44.0" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="552.0" y="533.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Boxes</tspan></text>
+</g>
+<g id="220-00-63">
+<rect x="740.0" y="508.0" width="130.0" height="44.0" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="752.0" y="533.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">₱220.00</tspan></text>
+</g>
+<g id="40-64">
+<rect x="870.0" y="508.0" width="150.0" height="44.0" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1"/>
+<text xml:space="preserve" x="882.0" y="533.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">40</tspan></text>
+</g>
+<g id="shape-65">
+<rect x="1020.0" y="508.0" width="260.0" height="44.0" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1"/>
+</g>
+<g id="View-66">
+<rect x="1028.0" y="341.0" width="74.0" height="26.0" rx="5.2" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="1065.0" y="357.9" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">View</tspan></text>
+</g>
+<g id="Edit-67">
+<rect x="1110.0" y="341.0" width="74.0" height="26.0" rx="5.2" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="1147.0" y="357.9" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Edit</tspan></text>
+</g>
+<g id="Delete-68">
+<rect x="1192.0" y="341.0" width="74.0" height="26.0" rx="5.2" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="1229.0" y="357.9" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Delete</tspan></text>
+</g>
+<g id="View-69">
+<rect x="1028.0" y="385.0" width="74.0" height="26.0" rx="5.2" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="1065.0" y="401.9" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">View</tspan></text>
+</g>
+<g id="Edit-70">
+<rect x="1110.0" y="385.0" width="74.0" height="26.0" rx="5.2" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="1147.0" y="401.9" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Edit</tspan></text>
+</g>
+<g id="Delete-71">
+<rect x="1192.0" y="385.0" width="74.0" height="26.0" rx="5.2" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="1229.0" y="401.9" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Delete</tspan></text>
+</g>
+<g id="View-72">
+<rect x="1028.0" y="429.0" width="74.0" height="26.0" rx="5.2" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="1065.0" y="445.9" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">View</tspan></text>
+</g>
+<g id="Edit-73">
+<rect x="1110.0" y="429.0" width="74.0" height="26.0" rx="5.2" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="1147.0" y="445.9" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Edit</tspan></text>
+</g>
+<g id="Delete-74">
+<rect x="1192.0" y="429.0" width="74.0" height="26.0" rx="5.2" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="1229.0" y="445.9" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Delete</tspan></text>
+</g>
+<g id="View-75">
+<rect x="1028.0" y="473.0" width="74.0" height="26.0" rx="5.2" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="1065.0" y="489.9" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">View</tspan></text>
+</g>
+<g id="Edit-76">
+<rect x="1110.0" y="473.0" width="74.0" height="26.0" rx="5.2" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="1147.0" y="489.9" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Edit</tspan></text>
+</g>
+<g id="Delete-77">
+<rect x="1192.0" y="473.0" width="74.0" height="26.0" rx="5.2" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="1229.0" y="489.9" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Delete</tspan></text>
+</g>
+<g id="View-78">
+<rect x="1028.0" y="517.0" width="74.0" height="26.0" rx="5.2" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="1065.0" y="533.9" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">View</tspan></text>
+</g>
+<g id="Edit-79">
+<rect x="1110.0" y="517.0" width="74.0" height="26.0" rx="5.2" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="1147.0" y="533.9" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Edit</tspan></text>
+</g>
+<g id="Delete-80">
+<rect x="1192.0" y="517.0" width="74.0" height="26.0" rx="5.2" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="1229.0" y="533.9" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Delete</tspan></text>
+</g>
+<g id="Showing-5-of-8-products-81">
+<text xml:space="preserve" x="246.0" y="579.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#666666">Showing </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#666666">5 </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#666666">of </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#666666">8 </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#666666">products</tspan></text>
+</g>
+<g id="1-2-82">
+<text xml:space="preserve" x="1274.0" y="579.9" text-anchor="end"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">‹  </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">1   </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">2  </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">›</tspan></text>
+</g>
+<g id="Note-Delete-is-blocked-when-83">
+<rect x="240.0" y="600.0" width="1040.0" height="40.0" fill="#F5F5F5" stroke="#BFBFBF" stroke-width="1" stroke-dasharray="5 4"/>
+<text xml:space="preserve" x="256.0" y="623.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#333333">Note:</tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333"> </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Delete </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">is </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">blocked </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">when </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">the </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">product </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">is </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">used </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">in </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Order_Detail </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">or </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Purchase_Detail </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">(see </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">CRUD </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Map). </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">Show: </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">&quot;This </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">product </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">is </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">used </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">in </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">orders </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">and </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">cannot </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">be </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#333333">deleted.&quot;</tspan></text>
+</g>
+<g id="EMPTY-STATE-shown-when-Produ-84">
+<text xml:space="preserve" x="26.0" y="792.5" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#666666">EMPTY </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#666666">STATE</tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#666666"> </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#666666">— </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#666666">shown </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#666666">when </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#666666">Product </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#666666">has </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#666666">no </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#666666">rows</tspan></text>
+</g>
+<g id="shape-85">
+<rect x="20.0" y="802.0" width="1280.0" height="640.0" fill="#FFFFFF" stroke="#333333" stroke-width="1"/>
+</g>
+<g id="shape-86">
+<rect x="20.0" y="802.0" width="200.0" height="640.0" fill="#EDEDED" stroke="#666666" stroke-width="1"/>
+</g>
+<g id="B-87">
+<rect x="36.0" y="816.0" width="36.0" height="36.0" rx="7.2" fill="#BFBFBF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="54.0" y="839.6" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#333333">B</tspan></text>
+</g>
+<g id="BikoShop-88">
+<text xml:space="preserve" x="86.0" y="839.2" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#333333">BikoShop</tspan></text>
+</g>
+<g id="WORKSPACE-89">
+<text xml:space="preserve" x="42.0" y="881.1" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#666666">WORKSPACE</tspan></text>
+</g>
+<g id="Dashboard-90">
+<rect x="32.0" y="890.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="908.9" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Dashboard</tspan></text>
+</g>
+<g id="Orders-91">
+<rect x="32.0" y="926.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="944.9" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Orders</tspan></text>
+</g>
+<g id="Products-92">
+<rect x="32.0" y="962.0" width="176.0" height="30.0" rx="6.0" fill="#BFBFBF"/>
+<text xml:space="preserve" x="50.0" y="980.9" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#333333">Products</tspan></text>
+</g>
+<g id="Categories-93">
+<rect x="32.0" y="998.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="1016.9" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Categories</tspan></text>
+</g>
+<g id="Inventory-94">
+<rect x="32.0" y="1034.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="1052.8" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Inventory</tspan></text>
+</g>
+<g id="MANAGEMENT-95">
+<text xml:space="preserve" x="42.0" y="1091.2" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#666666">MANAGEMENT</tspan></text>
+</g>
+<g id="Customers-96">
+<rect x="32.0" y="1102.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="1120.8" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Customers</tspan></text>
+</g>
+<g id="Employees-97">
+<rect x="32.0" y="1138.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="1156.8" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Employees</tspan></text>
+</g>
+<g id="Suppliers-98">
+<rect x="32.0" y="1174.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="1192.8" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Suppliers</tspan></text>
+</g>
+<g id="Purchases-99">
+<rect x="32.0" y="1210.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="1228.8" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Purchases</tspan></text>
+</g>
+<g id="Payments-100">
+<rect x="32.0" y="1246.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="1264.8" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Payments</tspan></text>
+</g>
+<g id="Reports-101">
+<rect x="32.0" y="1282.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="1300.8" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Reports</tspan></text>
+</g>
+<g id="Settings-102">
+<rect x="32.0" y="1330.0" width="176.0" height="30.0" rx="6.0" fill="#EDEDED"/>
+<text xml:space="preserve" x="50.0" y="1348.8" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">Settings</tspan></text>
+</g>
+<g id="shape-103">
+<rect x="220.0" y="872.0" width="1080.0" height="1.0" fill="#BFBFBF"/>
+</g>
+<g id="Workspace-Products-104">
+<text xml:space="preserve" x="246.0" y="840.9" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#666666">Workspace </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#666666">/ </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#666666">Products</tspan></text>
+</g>
+<g id="Search-anything-105">
+<rect x="780.0" y="818.0" width="240.0" height="38.0" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="794.0" y="840.9" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#888888">Search </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#888888">anything…</tspan></text>
+</g>
+<g id="JD-106">
+<ellipse cx="1059.0" cy="837.0" rx="19.0" ry="19.0" fill="#D9D9D9" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="1059.0" y="840.9" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#333333">JD</tspan></text>
+</g>
+<g id="Jerald-Fullero-Employee-Firs-107">
+<text xml:space="preserve" x="1090.0" y="829.0" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#333333">Jerald </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#333333">Fullero</tspan></text>
+<text xml:space="preserve" x="1090.0" y="840.8" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Employee.First_name, </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">.Last_name</tspan></text>
+<text xml:space="preserve" x="1090.0" y="852.3" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Employee.Position</tspan></text>
+</g>
+<g id="Products-108">
+<text xml:space="preserve" x="246.0" y="917.4" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#333333">Products</tspan></text>
+</g>
+<g id="Manage-the-menu-items-you-se-109">
+<text xml:space="preserve" x="246.0" y="940.9" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#666666">Manage </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#666666">the </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#666666">menu </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#666666">items </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#666666">you </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#666666">sell.</tspan></text>
+</g>
+<g id="Add-product-creates-Product-110">
+<rect x="1070.0" y="892.0" width="210.0" height="56.0" rx="8.0" fill="#BFBFBF" stroke="#333333" stroke-width="1"/>
+<text xml:space="preserve" x="1175.0" y="918.1" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#333333">+ </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#333333">Add </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#333333">product</tspan></text>
+<text xml:space="preserve" x="1175.0" y="930.2" text-anchor="middle"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="700" fill="#666666">creates </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="700" fill="#666666">Product </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="700" fill="#666666">+ </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="700" fill="#666666">Inventory</tspan></text>
+</g>
+<g id="Search-by-name-filters-Produ-111">
+<rect x="240.0" y="968.0" width="380.0" height="50.0" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="254.0" y="991.1" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#888888">Search </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#888888">by </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#888888">name…</tspan></text>
+<text xml:space="preserve" x="254.0" y="1003.2" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">filters </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Product.Product_name</tspan></text>
+</g>
+<g id="All-categories-Category-Cate-112">
+<rect x="640.0" y="968.0" width="260.0" height="50.0" fill="#FFFFFF" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="654.0" y="991.1" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#888888">All </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#888888">categories </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#888888">▾</tspan></text>
+<text xml:space="preserve" x="654.0" y="1003.2" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Category.Category_name</tspan></text>
+</g>
+<g id="ID-Product-Product-ID-113">
+<rect x="240.0" y="1036.0" width="100.0" height="56.0" fill="#D9D9D9" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="252.0" y="1056.0" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#333333">ID</tspan></text>
+<text xml:space="preserve" x="252.0" y="1067.8" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Product.</tspan></text>
+<text xml:space="preserve" x="252.0" y="1079.3" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Product_ID</tspan></text>
+</g>
+<g id="Name-Product-Product-name-114">
+<rect x="340.0" y="1036.0" width="200.0" height="56.0" fill="#D9D9D9" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="352.0" y="1056.0" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#333333">Name</tspan></text>
+<text xml:space="preserve" x="352.0" y="1067.8" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Product.</tspan></text>
+<text xml:space="preserve" x="352.0" y="1079.3" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Product_name</tspan></text>
+</g>
+<g id="Category-Category-Category-n-115">
+<rect x="540.0" y="1036.0" width="200.0" height="56.0" fill="#D9D9D9" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="552.0" y="1056.0" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#333333">Category</tspan></text>
+<text xml:space="preserve" x="552.0" y="1067.8" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Category.</tspan></text>
+<text xml:space="preserve" x="552.0" y="1079.3" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Category_name</tspan></text>
+</g>
+<g id="Price-Product-Unit-price-116">
+<rect x="740.0" y="1036.0" width="130.0" height="56.0" fill="#D9D9D9" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="752.0" y="1056.0" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#333333">Price</tspan></text>
+<text xml:space="preserve" x="752.0" y="1067.8" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Product.</tspan></text>
+<text xml:space="preserve" x="752.0" y="1079.3" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Unit_price</tspan></text>
+</g>
+<g id="Stock-Inventory-Quantity-on-117">
+<rect x="870.0" y="1036.0" width="150.0" height="56.0" fill="#D9D9D9" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="882.0" y="1056.0" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#333333">Stock</tspan></text>
+<text xml:space="preserve" x="882.0" y="1067.8" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Inventory.</tspan></text>
+<text xml:space="preserve" x="882.0" y="1079.3" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Quantity_on_hand</tspan></text>
+</g>
+<g id="Actions-Edit-update-Delete-d-118">
+<rect x="1020.0" y="1036.0" width="260.0" height="56.0" fill="#D9D9D9" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="1032.0" y="1061.7" text-anchor="start"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#333333">Actions</tspan></text>
+<text xml:space="preserve" x="1032.0" y="1073.5" text-anchor="start"><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Edit </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">= </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">update, </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">Delete </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">= </tspan><tspan font-family="Roboto Mono, Courier New, monospace" font-size="9" font-weight="400" fill="#666666">delete</tspan></text>
+</g>
+<g id="shape-119">
+<rect x="240.0" y="1092.0" width="1040.0" height="260.0" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1" stroke-dasharray="5 4"/>
+</g>
+<g id="icon-120">
+<rect x="720.0" y="1124.0" width="80.0" height="80.0" rx="8.0" fill="#D9D9D9" stroke="#666666" stroke-width="1"/>
+<text xml:space="preserve" x="760.0" y="1167.5" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="10" font-weight="400" fill="#666666">icon</tspan></text>
+</g>
+<g id="No-products-yet-Add-the-firs-121">
+<text xml:space="preserve" x="760.0" y="1235.9" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#333333">No </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#333333">products </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#333333">yet. </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#333333">Add </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#333333">the </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#333333">first </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#333333">one.</tspan></text>
+</g>
+<g id="Add-product-122">
+<rect x="670.0" y="1258.0" width="180.0" height="40.0" rx="8.0" fill="#BFBFBF" stroke="#333333" stroke-width="1"/>
+<text xml:space="preserve" x="760.0" y="1281.8" text-anchor="middle"><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#333333">+ </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#333333">Add </tspan><tspan font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#333333">product</tspan></text>
+</g>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0NTM3MTAxZS02MzI3LTRiZGYtYTllOC02MzY4ZjZlZTA5ODcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaE2wgWsMXrHo6+a5irXbv+gAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDowMzM3OTQzNS0yYjM3LTRhZTYtYTkzNi1lMTc1YThiODU2ZTBscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNohBFvwPLOMOXViKssjSaZLAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggnYHa9lbIb/XEl0OW+MWoM69kbGysVbymxG2shVygcaqkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaC6wK+LcJsQkIVjF0pAoMYUAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIMJ4h128JHxj8IqiGGEQf/9B2DHmWmsqpupF7ITs4oXmZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GdaZZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjQ1MzcxMDFlLTYzMjctNGJkZi1hOWU4LTYzNjhmNmVlMDk4Ny9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjc4Y2Y1YTE5LWZjZTAtNGZiOS1iZTg0LWY1YTYwN2UzNTNjMHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCdgdr2Vshv9cSXQ5b4xagzr2RsbKxVvKbEbayFXKBxqqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggPaunnqybKcDMZQh7U/OXRFDTJbGFwJ8rsvaUjl0cWLeiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggXFj0lGbYz5cTdEVfSmuO4ZdsTlTwvlya7F2j+AovgOx0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQCHLA08ihWaUbcfGhSeZ4jOznYrgFe6C7XRm5aki8O0J1gSmRSF9hc0N3YcVuGceJbTWK+ccYItSSWMWRvgnaoY=</c2pa:manifest></metadata></svg>

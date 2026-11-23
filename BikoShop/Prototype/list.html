@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BikoShop | Products</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" defer></script>
+</head>
+<body>
+    <header class="site-header">
+        <a class="brand" href="list.html">
+            <span class="brand-mark">B</span>
+            <span><strong>Biko<span>Shop</span></strong><small>PRODUCT MANAGEMENT</small></span>
+        </a>
+        <nav class="main-nav" aria-label="Main navigation">
+            <a href="list.html" class="active" aria-current="page">Products</a>
+        </nav>
+    </header>
+
+    <main class="container">
+        <section class="page-heading">
+            <div>
+                <p class="eyebrow">BIKOSHOP MANAGEMENT</p>
+                <h1>Products</h1>
+                <p>Manage your biko products and prices.</p>
+            </div>
+            <a href="form.html" class="btn btn-gold">+ Add Product</a>
+        </section>
+
+        <section class="panel" aria-label="Product list">
+            <div class="page-toolbar">
+                <div>
+                    <h2>Product List</h2>
+                    <p id="product-count" class="table-meta">Loading products...</p>
+                </div>
+                <input type="search" id="product-search" class="table-search"
+                       placeholder="Search products..." aria-label="Search products">
+            </div>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Product ID</th>
+                            <th>Product Name</th>
+                            <th>Category</th>
+                            <th>Unit Price</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody id="product-table-body">
+                        <tr><td colspan="5" class="empty-state">Loading products...</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+        <p class="page-note">BikoShop · Product Management Prototype</p>
+    </main>
+</body>
+</html>
